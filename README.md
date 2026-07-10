@@ -10,6 +10,19 @@
   <a href="https://github.com/Adham-AI-Store">GitHub</a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/FastAPI-Backend-success?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-GitHub-orange?style=for-the-badge&logo=git" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Applications-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine-Learning-informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Building-MVPs-black?style=for-the-badge" />
+</p>
+
 ---
 
 ## About Me
